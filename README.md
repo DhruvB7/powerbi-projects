@@ -41,10 +41,10 @@ This interactive Power BI dashboard analyzes **sales, profit, and performance me
 ## 📷 Dashboard Snapshots
 
 ### Page 1: Sales Overview
-![Dashboard Page 1](Superstore%20page%201.png)
+
 
 ### Page 2: Advanced Analysis & Trends
-![Dashboard Page 2](Superstore%20page%202.png)
+
 
 ---
 
